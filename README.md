@@ -1,4 +1,4 @@
-# Adventure Works Processing
+# Adventure Works Miner
 
 This is an **ETL(Extract, Transform and load)** Project using SSIS.
 - This project uses Adventures Works Data to work. it is a corpus with multiple datasheets like purchases, orders, shipment etc. which has been broken down in this repo for further processing.
